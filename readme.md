@@ -11,5 +11,5 @@ Set of recipes as given by my grandma.
 
 
 
-hahaha successful done! by Anqi
-Good. -Jiachen
+hahaha successful done! by Anqi.
+Good. -Jiachen.
