@@ -1,4 +1,4 @@
-# Jiachen's Family mysterious recipes
+# Jiachen's Family mysteriouss recipes
 
 
 Set of recipes as given by my grandma.
